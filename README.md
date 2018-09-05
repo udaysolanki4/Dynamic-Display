@@ -1,2 +1,2 @@
 # trainingproject
-home automation
+smart display
