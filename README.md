@@ -1,2 +1,2 @@
 # trainingproject
-smart display
+
