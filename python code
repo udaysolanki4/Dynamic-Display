@@ -115,5 +115,3 @@ def ser2():
             flag=0
     ser1()
 ser1()
-
-
