@@ -22,7 +22,13 @@ The problem with current scenario is that we used to have lots of Displays in tr
   - max 7219 led matrix module
   - connecting wires
 
-  
+## Libraries
+  - MAX7219.led (for interfacing with led matrix)
+  - Firebase (for real time data base)
 
+## Application instance
+MIT APP Inventor2 is a gui based application developing environment. I'm using this web application to make project application where i can control the led matix usind text message or voice control.
+  
+![Login screen static password protected](https://github.com/udaysolanki4/Dynamic-Display/blob/master/login.jpeg)
 
 
