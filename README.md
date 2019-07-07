@@ -42,3 +42,6 @@ MIT APP Inventor2 is a gui based application developing environment. I'm using t
 ### code flow fo screen 2
 
 <img src="https://github.com/udaysolanki4/Dynamic-Display/blob/master/Capture2.JPG" /> 
+
+### Final Output with all 3 interface
+<img src="https://github.com/udaysolanki4/Dynamic-Display/blob/master/img%202.png" /> 
